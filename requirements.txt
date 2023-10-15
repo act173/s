@@ -1,2 +1,1 @@
 flet==0.10.2
-flet-route==0.3.2
